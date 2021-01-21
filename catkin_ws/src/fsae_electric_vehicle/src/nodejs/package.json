@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "rosnodejs": "^3.0.0",
     "sequelize": "^5.10.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "sqlite3": "^4.0.9",
     "yarn": "^1.17.3"
   }
